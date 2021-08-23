@@ -1,2 +1,2 @@
 # CalculatorPY
-Make simple calculator with python 
+Make simple calculator with python.....simple and classic style
